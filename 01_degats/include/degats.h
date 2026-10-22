@@ -13,4 +13,5 @@ float DegatsProportionnels(float distance);
 // Etape 2 : memes bornes, une autre forme entre les deux.
 float DegatsAmortis(float distance);
 
+
 }  // namespace rde03
